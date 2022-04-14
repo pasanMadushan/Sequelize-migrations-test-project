@@ -18,3 +18,6 @@ $ npm run start:prod
 ```
 
 # This is a test app for sequelize migrations. 
+
+Test Database as follows. [Postgres]
+![test database](https://ibb.co/ZVQddjL)
